@@ -1,9 +1,9 @@
 # Bank Marketing Dataset
 
- 
-
 The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. It contains information about the marketing campaign impact of a bank specifically through telemarketing. It includes 20 independent variables of which 5 are the nationwide socio-economic factors pertaining to the bank's operating country. 
  
+ It includes 16 independent variables.
+
 
 ## Input variables:
 
