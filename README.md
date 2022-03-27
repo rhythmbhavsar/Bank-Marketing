@@ -5,7 +5,7 @@ The data is related with direct marketing campaigns (phone calls) of a Portugues
  It includes 16 independent variables.
 
 
-## Input variables:
+## Input variables:-
 
 | columns | Description |
 | --- | --- |
